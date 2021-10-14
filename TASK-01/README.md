@@ -1,1 +1,1 @@
-
+At first i tried to star all the repositories manually and even view the contents of them as i may find something useful, but finally I ended up using the Javascript provided after coming to know that nothing required is present in that.
