@@ -15,4 +15,4 @@ Well until my 12 class though i knew nothing about coding ,programming etcI had 
 
 👉Do you have any feedback for the selection process?
 
-    Yes,though I found the selection process fine but it would be even more better if much more time is given with respect to the tasks as some or difficult while the others are lengthy, I think it would be better if even learning typing is made one of the tasks as it plays a vital role.
+   Yes,though I found the selection process fine but it would be even more better if much more time is given with respect to the tasks as some or difficult while the others are lengthy, I think it would be better if even learning typing is made one of the tasks as it plays a vital role.
