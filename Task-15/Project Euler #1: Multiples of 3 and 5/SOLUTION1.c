@@ -1,4 +1,4 @@
-
+/*THIS IS THE SOLUTION MADE BY ME FOR THE QUESTION "Project Euler #1: Multiples of 3 and 5" FOR TASK-15.*/
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
