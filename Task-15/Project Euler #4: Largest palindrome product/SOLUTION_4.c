@@ -1,4 +1,5 @@
-/*THIS IS THE SOLUTION MADE BY ME FOR THE QUESTION "Project Euler #3: Largest prime factor" FOR TASK-15.*/
+/*THIS IS THE SOLUTION MADE BY ME FOR THE QUESTION "Project Euler #4: Largest palindrome product" FOR TASK-15.*/
+
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
