@@ -1,8 +1,10 @@
 /*THIS IS THE SOLUTION MADE BY ME FOR THE QUESTION "Project Euler #1: Multiples of 3 and 5" FOR TASK-15
 MOST/all THE HEADER FILES IN THIS CODE ARE USELESSEXCEPT FOR THE HEADER FILE SHOWN SEPARATELY
 JUST LEFT THEM AS THEY WERE GIVEN WITH THE QUESTION�.*/
-#include <math.h>
+
 #include <stdio.h>
+
+#include <math.h>
 #include <string.h>
 #include <stdlib.h>
 #include <assert.h>
