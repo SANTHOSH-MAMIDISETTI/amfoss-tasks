@@ -1,4 +1,4 @@
-/*
+/*THIS IS THE SOLUTION MADE BY ME FOR THE QUESTION "Project Euler #5: Smallest multiple" FOR TASK-15.*/
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
