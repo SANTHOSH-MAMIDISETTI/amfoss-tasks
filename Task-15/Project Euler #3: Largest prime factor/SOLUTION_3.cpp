@@ -31,18 +31,18 @@ using namespace std;
 int main()
 {
    int t;
-  std::cin >> t;
+  cin >> t;
   while (t--)
   {
      long x;
-    std::cin >> x;
+    cin >> x;
 
     for ( long f = 2; f * f <= x; f++)
       
       while (x % f == 0 && x != f) 
         x /= f;
 
-    std::cout << x << std::endl;
+    cout<< x <<endl;
   }
   return 0;
 }
