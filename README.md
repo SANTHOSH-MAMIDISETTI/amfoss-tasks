@@ -1,7 +1,7 @@
 # DETAILED OVERVIEW OF TASKS DONE BY ME
 #    ("*PS:- clicking on the respective link will take you to the respective solutions.*")
 | TASK NUMBER | DESCRIPTION | STATUS |
-| --- | --- | --- |
+| :--- | :---: | ---: |
 | [INTROSPECTION](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/Introspection)
 | [TASK-00](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-00) | Installing Ubuntu | COMPLETED 👍   |
 | [TASK-01](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-01) | Staring amFOSS repositories | COMPLETED 👍   |
