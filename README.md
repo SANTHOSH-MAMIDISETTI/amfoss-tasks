@@ -1,5 +1,5 @@
 # DETAILED OVERVIEW OF TASKS DONE BY ME
-#    {"*PS:- clicking on the respective link will take you to the respective solutions.*"}
+#    ("*PS:- clicking on the respective link will take you to the respective solutions.*")
 | TASK NUMBER | DESCRIPTION | STATUS |
 | --- | --- | --- |
 | [INTROSPECTION](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/Introspection)
@@ -10,7 +10,7 @@
 | [TASK-04](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-04) | Aerglo Mars | ATTEMPTED   |
 | [TASK-05](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-05) | Let me C | COMPLETED 👍  |
 | [TASK-06](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-06) | Flutter based UI task | ATTEMPTED (but not done) |
-| [TASK-07](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-07) | Rich Scraper | ATTEMPTED   |
+| [TASK-07](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-07) | Rich Scraper | ATTEMPTED(came-up with in-complete code)  |
 | [TASK-08](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-08) | JSExplorer | NOT ATTEMPTED   |
 | [TASK-09](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-09) | Setup a Simple Personal Website | COMPLETED 👍   |
 | [TASK-10](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-10) | CS50 | COMPLETED 👍   |
@@ -21,12 +21,10 @@
 | [TASK-15](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-15) | Project Euler | COMPLETED 👍    |
 
 
-
 # AMFOSS-TASKS
 (repository with amfoss tasks done by SANTHOSH_MAMIDISETTI )
 
 I am SANTHOSH_MAMIDISETTI from ANDHRA PRADESH ,fresher at Amrita School of Engineering(CSE AI 2021)
-
 
 I myself have not completed all the tasks so I can directly say that they were difficult and most of them were out of range for freshers like me particularly for students like me(from Andhra Pradesh) who will not have any background of programming.They were so amazing(as well as difficut) that i cannot have a particular word to describe them.They challange us to increase our knowledge that is the best part of it.The tasks are designed to cultivate the habit of self learning in which they are helphul(but be disastrous to students from positon) atleast in my case.
 
