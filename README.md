@@ -1,5 +1,7 @@
 # DETAILED OVERVIEW OF TASKS DONE BY ME
 #    ("*PS:- clicking on the respective link will take you to the respective solutions.*")
+
+while clicking on the link press Ctrl along on Windows /CMD on Mac to open links in a new tab.
 | TASK NUMBER | DESCRIPTION | STATUS |
 | :--- | :---: | ---: |
 | [INTROSPECTION](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/Introspection)| write answers to the questions given |COMPLETED 👍|
