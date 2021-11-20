@@ -1,4 +1,5 @@
 # DETAILED OVERVIEW OF TASKS DONE BY ME
+{"*PS:- clicking on the respective link will take you to the respective solutions.*"}
 | TASK NUMBER | DESCRIPTION | STATUS |
 | --- | --- | --- |
 | [INTROSPECTION](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/Introspection)
