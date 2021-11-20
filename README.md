@@ -2,7 +2,7 @@
 #    ("*PS:- clicking on the respective link will take you to the respective solutions.*")
 | TASK NUMBER | DESCRIPTION | STATUS |
 | :--- | :---: | ---: |
-| [INTROSPECTION](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/Introspection)
+| [INTROSPECTION](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/Introspection)| write answers to the questions given |COMPLETED 👍|
 | [TASK-00](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-00) | Installing Ubuntu | COMPLETED 👍   |
 | [TASK-01](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-01) | Staring amFOSS repositories | COMPLETED 👍   |
 | [TASK-02](https://github.com/SANTHOSH-MAMIDISETTI/amfoss-tasks/tree/main/TASK-02) | Begin your journey with Linux and Git | COMPLETED 👍    |
